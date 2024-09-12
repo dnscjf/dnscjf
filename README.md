@@ -1,4 +1,6 @@
-<div align=center><h1>📚 STACKS</h1></div>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+
+<div align=center><h1>📚 Tech Stack 📚</h1></div>
 
 <div align=center>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
