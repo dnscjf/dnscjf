@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dnscjf&show_icons=true&theme=radical)
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+
 
 <!--
 **dnscjf/dnscjf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
