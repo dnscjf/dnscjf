@@ -1,6 +1,6 @@
 <div align=center><h1> Header </h1>
 
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=FF0000&height=300&section=header&text=dnscjf%20GitHub!&fontSize=90&color=#FFFFFF" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=FF0000&height=300&section=header&text=dnscjf%20GitHub!&fontSize=90&color=white" />
   <br />
   <br />
 </div>
