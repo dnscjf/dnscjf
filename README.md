@@ -5,6 +5,7 @@
   <br />
 
  👋 Welcome My GitHub - Profile! 
+ 🌟 함께 성장함으로서 의미 있는 프로젝트에 기여할 기회를 찾고 있습니다!
 </div>
 
 <div align=center><h1>📚 Tech Stack 📚</h1></div>
